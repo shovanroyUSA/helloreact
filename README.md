@@ -126,3 +126,8 @@ const App = () => {
 
 export default App;
 
+
+## Output will look like:
+<img width="944" alt="image" src="https://github.com/shovanroyUSA/helloreact/assets/116796946/5f3f45b8-f534-4380-95d1-cacff9bc6fcf">
+
+
