@@ -55,11 +55,11 @@ import React from 'react';
 
 ## To render the provided React code in a browser, We will need to integrate the given code into the React application and then style it appropriately. Here are the steps:
 ### 1. Creating a New React Component:
-First, we need to create a new React component to encapsulate the provided code. For instance, let's call this component StylingAssignment.js
-import React from 'react';
+#### First, we need to create a new React component to encapsulate the provided code. For instance, let's call this component StylingAssignment.js
+#### import React from 'react';
 
-const StylingAssignment = () => {
-  return (
+#### const StylingAssignment = () => {
+  #### return (
     <div>
       <header>
         <h1>Welcome to the React Styling Assignment</h1>
